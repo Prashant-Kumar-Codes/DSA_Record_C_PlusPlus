@@ -30,4 +30,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
