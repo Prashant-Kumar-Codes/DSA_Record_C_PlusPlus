@@ -29,10 +29,15 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/2652-sum-multiples) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
