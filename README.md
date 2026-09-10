@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/2652-sum-multiples) |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prashant-Kumar-Codes/DSA_Record_C_PlusPlus/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
